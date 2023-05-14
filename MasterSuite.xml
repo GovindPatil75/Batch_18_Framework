@@ -9,6 +9,7 @@
 <class name="com.Test.Test_1"/>
 <class name="com.Test.Test_2"/>
 <class name="com.Test.Test_3"/>
+<class name="com.Test.Test_4"/>
 </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
