@@ -10,6 +10,7 @@
 <class name="com.Test.Test_2"/>
 <class name="com.Test.Test_3"/>
 <class name="com.Test.Test_4"/>
+<class name="com.Test.Test_5"/>
 </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
